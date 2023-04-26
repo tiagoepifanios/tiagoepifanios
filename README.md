@@ -14,3 +14,11 @@
   <a href="https://www.python.org/"> 
     <img align="center" alt="Icon-Python" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   </a>
+  <!-- Icon HTML5 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img align="center" alt="Icon-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
+  <!-- Icon CSS3 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img align="center" alt="Icon-CSS3" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a> 
