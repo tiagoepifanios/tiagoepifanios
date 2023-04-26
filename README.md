@@ -38,8 +38,3 @@
   <a href="https://github.com/torvalds/linux"> 
     <img align="center" alt="Icon-Linux" height="35" src="https://user-images.githubusercontent.com/44311634/208247560-a8f73172-e8c5-418c-a0da-f8df63e49db4.png">
   </a>
-</div>
-    <a href="https://www.office.com/"> 
-    <img align="center" alt="Icon-Office" height="35" src="https://icons8.com.br/icon/37619/office-365">
-  </a>
-</div>
