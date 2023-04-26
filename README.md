@@ -1,7 +1,6 @@
 
 
 ![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_tiagoepifanio/)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-epifanio-63346616a/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511943588530&text=)
 
@@ -9,7 +8,7 @@
 [![Pryor GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tiagoepifanios&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-### Hard Skills
+### Tech Stack Skills
 
 <div style="display: inline_block"><br/>
     <img align="center" alt+"html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
