@@ -11,7 +11,7 @@
 ### Tech Stack Skills 💻⚒️
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt+"html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt+"html5" src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg)" />
     <img align="center" alt+"html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt+"html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img align="center" alt+"html5" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
