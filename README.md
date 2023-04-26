@@ -8,7 +8,7 @@
 [![Pryor GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tiagoepifanios&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-### Tech Stack Skills
+### Tech Stack Skills 💻⚒️
 
 <div style="display: inline_block"><br/>
     <img align="center" alt+"html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
